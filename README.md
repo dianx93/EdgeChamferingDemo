@@ -14,4 +14,4 @@ When comparing real-life objects and 3D models, one telltale sign that an object
 
 
 ## Poster
-![Poster](/Poster.jpg)
+![Poster](/EdgeChamferingPoster.png)
