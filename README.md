@@ -1,7 +1,7 @@
 # Edge Chamfering Demo
 This repo includes the demo and other resources regarding the Master's thesis Edge Chamfering Algorithm.
 The code is not available publicly, but the asset will be obtainable in the Unity Asset Store in the future.
-To gain access to the code, contact the author Diana Algma, for example, by e-mail diana.algma@eesti.ee.
+To gain access to the code, contact the author Diana Algma, for example, by e-mail dianx93@gmail.com.
 
 ## Thesis
 ### Edge Chamfering Algorithm:
