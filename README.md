@@ -8,8 +8,9 @@ This repo includes the demo and other resources regarding the Master's thesis **
 > (EdgeChamferer_21_12_19.unitypackage)
 
 
-Backstory: I did not end up putting it in the Unity Asset Store as I planned, but I have shared the code with some of the people that contacted me about it while still hoping it will end up on the Asset Store eventually. The latter turned out to be a lot harder than I thought and the fact that the e-mail stated in the thesis is now discontinued makes it even harder to obtain the code. In hopes that my algorithm can still be useful for game developers as intended, I am now just making the code public.
-The version uploaded is currently the one I've been sharing, appologies that it's so out-of-date and not clean code at all. But the logic is still there. I think it's better than nothing at least.
+*Backstory: I did not end up putting it in the Unity Asset Store as I planned, but I have shared the code with some of the people that contacted me about it while still hoping it will end up on the Asset Store eventually. The latter turned out to be a lot harder than I thought and the fact that the e-mail stated in the thesis is now discontinued makes it even harder to obtain the code. In hopes that my algorithm can still be useful for game developers as intended, I am now just making the code public.
+The version uploaded is currently the one I've been sharing, appologies that it's so out-of-date and not clean code at all. But the logic is still there. I think it's better than nothing at least.*
+
 
 If you have any problems or questions don't hesitate to contact me by e-mail dianx93@gmail.com, I'm happy to help!
 
